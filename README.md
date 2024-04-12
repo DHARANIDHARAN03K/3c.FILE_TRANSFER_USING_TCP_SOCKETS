@@ -65,6 +65,7 @@ while True:
 ```
 ## OUPUT
 CLIENT:
+
 ![image](https://github.com/DHARANIDHARAN03K/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870858/5cf114ac-a5e8-4e58-aa14-5e283d15f9f8)
 
 SERVER:
